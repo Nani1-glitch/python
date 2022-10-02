@@ -282,33 +282,5 @@ if __name__ == "__main__":
         elif "no thanks" in query:
             speak("thanks for using me, have a good day.")
             sys.exit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            
+           
